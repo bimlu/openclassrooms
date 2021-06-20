@@ -1,0 +1,21 @@
+{
+  "name": "dogehouse",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "kebab",
+      "kibbeh",
+      "dinner",
+      "dolma"
+    ],
+    "nohoist": [
+      "**"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "mediasoup-client": "^3.6.30",
+    "mediasoup-client-aiortc": "^3.6.3",
+    "ts-jest": "^26.5.5"
+  }
+}

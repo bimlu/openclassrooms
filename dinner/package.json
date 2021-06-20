@@ -1,0 +1,24 @@
+{
+  "name": "dinner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/create-accounts.ts",
+    "audio": "ts-node src/play-audio.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dogehouse/kebab": "workspace:kebab",
+    "mediasoup-client": "^3.6.30",
+    "mediasoup-client-aiortc": "^3.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
