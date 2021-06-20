@@ -1,6 +1,6 @@
 kousa (Elixir API) -> mirza
 shwarma (Voice Server) -> meera
-dinner (Puppeteer bots) -> karna
-kibbeh (Next.js frontend) -> agnijyotsna - `the brightness within a fire` 
+dinner (Puppeteer bots) -> *(doable) karna
+kibbeh (Next.js frontend) -> *(doable) agnijyotsna - `the brightness within a fire` 
 kebab (API Client) -> drona 
 dolma (Chat Token Transcoder) -> danda - `himalayan ranges`
